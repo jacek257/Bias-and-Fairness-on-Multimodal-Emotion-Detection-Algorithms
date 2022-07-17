@@ -1,5 +1,8 @@
 # README
 
+## Paper (Pre-print)
+[Bias and Fairness on Multimodal Emotion Detection Algorithms](https://arxiv.org/abs/2205.08383)
+
 ## Data
 [IEMOCAP](https://sail.usc.edu/iemocap/iemocap_release.htm) | Not Public - Drive Link Shared on [Piazza](https://piazza.com/class/kxzohoukmr87ms?cid=260)
 
